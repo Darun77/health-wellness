@@ -1,0 +1,20 @@
+{
+  "rows_before_dedup": 1205,
+  "rows_after_dedup": 1200,
+  "duplicates_removed": 5,
+  "missing_values_by_column": {
+    "age": 0,
+    "tenure_years": 0,
+    "work_hours_per_week": 0,
+    "sleep_hours": 41,
+    "physical_activity_min_week": 36,
+    "diet_score": 41,
+    "screen_time_hours": 0,
+    "caffeine_intake_mg": 0,
+    "meditation_min_week": 0,
+    "social_support_score": 44,
+    "job_satisfaction_score": 0,
+    "work_life_balance_score": 0,
+    "past_medical_leaves": 0
+  }
+}

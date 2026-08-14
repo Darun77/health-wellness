@@ -1,0 +1,15 @@
+{
+  "stress_regression": {
+    "rmse": 9.529977348217576,
+    "mae": 7.775570635272164,
+    "r2": 0.4334803268861901
+  },
+  "burnout_classification_ml_baseline": {
+    "accuracy": 0.6833333333333333,
+    "precision": 0.616822429906542,
+    "recall": 0.6534653465346535,
+    "f1_score": 0.6346153846153846,
+    "roc_auc": 0.742716717714937
+  },
+  "segmentation_silhouette_score": 0.07959143840259048
+}

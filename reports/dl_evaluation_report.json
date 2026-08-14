@@ -1,0 +1,22 @@
+{
+  "ml_baseline_flattened_sequence": {
+    "accuracy": 0.6833333333333333,
+    "f1_score": 0.6545454545454545,
+    "roc_auc": 0.7613790155994017
+  },
+  "dl_lstm_attention": {
+    "accuracy": 0.6958333333333333,
+    "precision": 0.6296296296296297,
+    "recall": 0.6732673267326733,
+    "f1_score": 0.6507177033492823,
+    "roc_auc": 0.7454946933542276
+  },
+  "sequence_length_weeks": 12,
+  "features_used": [
+    "sleep_hours",
+    "physical_activity_min",
+    "work_hours",
+    "mood_score",
+    "weekly_stress_level"
+  ]
+}
